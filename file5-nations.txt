@@ -2,4 +2,6 @@ india
 pakisthan
 china
 japan
-nepal
+
+bhutan
+korea
