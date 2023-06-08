@@ -3,5 +3,4 @@ pakisthan
 china
 japan
 
-bhutan
-korea
+
