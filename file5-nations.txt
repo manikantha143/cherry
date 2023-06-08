@@ -5,5 +5,4 @@ japan
 
 monday
 tuesday
-wed
-may
+ june
